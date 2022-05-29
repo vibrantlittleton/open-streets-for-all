@@ -14,3 +14,4 @@ These guiding principles are the foundational layer of how we think about street
   - Is desired by the community and practical 
   - Is maintainable at low cost
 - **Cost effective:** A large factor of how we build out our built environment is the cost of the infrastructure. 
+- **No right to speed:** Nobody should feel entitled to travel through any neighborhood or area of our town quickly. There is no guarantee of speed. As a resident of my town I do not have the right to demand infrastructure in another town to travel through their town quickly. Their right to have a safe, livable, environment in their town is prioritized higher than my desire to travel through their town quickly. Nobody has a right to speed. 
