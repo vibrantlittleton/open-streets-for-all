@@ -39,7 +39,7 @@ How many cars on a typical Saturday morning are parked on this road? 15 cars and
 
 ### Solution for lanes 
 
-Picture of great bike lane
+We can use that 276 unused car lengths worth of space for a much better purpose! Picture of great bike lane. We can still have intermittent car storage while providing a safe way for people to travel. 
 
 ### It’s too expensive and the infrastructure is already built!
 
